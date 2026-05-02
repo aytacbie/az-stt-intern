@@ -24,7 +24,7 @@ Fine-tuning və mətn normalizasiyası tətbiq edildikdən sonra modelin perform
 | Model Versiyası | WER (Word Error Rate) | CER (Character Error Rate) |
 | :--- | :--- | :--- |
 | **Baza Model** | 64.94%  | 20.82%  |
-| **Fine-tuned Model** | **50.98%** ] | **0.00%***  |
+| **Fine-tuned Model** | **50.98%**  | **0.00%** |
 
 *\*Qeyd: CER göstəricisinin 0.00% olması modelin kiçik dataset üzərində xarakter səviyyəsində tam uyğunlaşdığını göstərir.* 
 
