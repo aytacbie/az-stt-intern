@@ -9,7 +9,12 @@ Layihə üç əsas hissədən ibarətdir:
 2.  **Hissə B (Fine-Tuning):** Modelin Azərbaycan dilinin xüsusiyyətlərinə uyğunlaşdırılması üçün 200 nümunəlik dataset ilə təlimi.
 3.  **Hissə C (Analiz):** Texniki çətinliklərin və model nəticələrinin analitik təhlili.
 
-## 🛠️ İstifadə Olunan Model və Parametrlər
+## Dataset
+Bu layihədə istifadə olunan səs datası Mozilla Common Voice formatındadır. 
+Dataseti aşağıdakı linkdən əldə edə bilərsiniz:
+- https://drive.google.com/drive/folders/1G4b_bFor_s_0XNgO2NYit_7uJKo_DGbf?usp=drive_link
+
+##  İstifadə Olunan Model və Parametrlər
 - **Model:** `openai/whisper-small` 
 - **Təlim Parametrləri:**
   - Learning Rate: `1e-5` 
